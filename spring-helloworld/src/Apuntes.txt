@@ -27,4 +27,3 @@ concentarse en lo que realmente mporta que es la logica del proyecto de negocio.
 # Los beans son objetos java normales que estan gestionados por spring
 
 Spring es algo que esta en todo el codigo, no solo en una funcion.
-asff
