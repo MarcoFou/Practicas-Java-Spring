@@ -1,0 +1,30 @@
+# Utilizo el gestor de proyectos Maven
+
+# Spring no es un lenguaje, se sigue usando el lenguaje Java, Spring es un conjunto de clases Java que ya estan
+programadas por otras personas y se utilizan para ahorrar tiempo y facilitar el desarrollo, esa es la idea. y
+concentarse en lo que realmente mporta que es la logica del proyecto de negocio.
+    Las clases son soluciones generales reutilizables que muchos desarrollos tienen en comun como conectarse a una BBDD.
+
+# El test es codigo que se utiliza para probar el codigo del desarrollo.
+
+# El fichero pom.xml es el fichero principal de Maven.
+
+# Los ficheros maven constan de una serie de eventos, el de arriba es la estructura y no se toca, estan en leguaje xml
+(que es un lenguaje de etiquetas)
+
+<artifactId>es el nombre del proyecto<artifactId>
+
+<groupId>Hace referencia a la empresa<groupId>
+
+# Una dependenca es un proyecto java que ya esta programado y lo quiero agregar aqui.
+
+# el repositorio base es Spring Context
+
+# El término legacy code se utiliza en la ingeniería de software para referirse al código que se ha quedado obsoleto
+
+
+
+# Los beans son objetos java normales que estan gestionados por spring
+
+Spring es algo que esta en todo el codigo, no solo en una funcion.
+asff
